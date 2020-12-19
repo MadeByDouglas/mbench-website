@@ -1,6 +1,6 @@
 html,
 body {
-  font-family: 'Tajawal', serif;
+  font-family: 'Helvetica', serif;
   font-size: 14px;
   font-weight: 300;
 }
@@ -25,13 +25,14 @@ p.subtitle {
   padding-top: 1rem;
 }
 a {
-  color: #fff;
+  color: white;
 }
 a:hover {
-  color: #d3d6df;
+  color: white;
 }
 .title.is-1 {
   font-size: 5rem;
+  color: white;
 }
 .footer-text a {
   color: white;
