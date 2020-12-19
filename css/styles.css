@@ -66,6 +66,14 @@ a:hover {
   -o-animation: fadein 2s; /* Opera < 12.1 */
   animation: fadein 2s;
 }
+
+.block:not(:last-child) {
+  margin-bottom: 1.5rem;
+}
+.block-spacer {
+  margin-bottom: 400px
+}
+
 @keyframes fadein {
   from {
     opacity: 0;
