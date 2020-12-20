@@ -2,5 +2,23 @@
   "dependencies": {
     "graphql": "^15.4.0",
     "graphql-request": "^3.4.0"
-  }
+  },
+  "name": "mbench",
+  "description": "landing page",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadeByDouglas/mbench-website.git"
+  },
+  "author": "doug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadeByDouglas/mbench-website/issues"
+  },
+  "homepage": "https://github.com/MadeByDouglas/mbench-website#readme"
 }
